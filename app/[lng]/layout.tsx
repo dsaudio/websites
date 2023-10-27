@@ -28,7 +28,6 @@ export async function generateMetadata({
     title: params.lng === "en" ? "DSAudio" : "DSAudio",
     description: `${params.lng === "en" ? "DSAudio" : "DSAudio"}.`,
     metadataBase: new URL("https://kjxbyz.com"),
-    themeColor: "#FFF",
     icons: {
       icon: "/dsaudio/logo.jpg",
     },
