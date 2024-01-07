@@ -1,5 +1,7 @@
 # dsaudio
 
+[![CodeFactor](https://www.codefactor.io/repository/github/dsaudio/websites/badge)](https://www.codefactor.io/repository/github/dsaudio/websites)
+
 ## Setup
 
 Make sure to install the dependencies:
