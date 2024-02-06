@@ -1,6 +1,6 @@
 # dsaudio
 
-[![CodeFactor](https://www.codefactor.io/repository/github/dsaudio/websites/badge)](https://www.codefactor.io/repository/github/dsaudio/websites)
+[![CodeFactor](https://www.codefactor.io/repository/github/alisoft/dsaudio/badge)](https://www.codefactor.io/repository/github/alisoft/dsaudio)
 
 ## Setup
 
