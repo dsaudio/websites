@@ -1,7 +1,5 @@
 # dsaudio
 
-[![CodeFactor](https://www.codefactor.io/repository/github/alisoft/dsaudio/badge)](https://www.codefactor.io/repository/github/alisoft/dsaudio)
-
 ## Setup
 
 Make sure to install the dependencies:
