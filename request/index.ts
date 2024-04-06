@@ -1,5 +1,5 @@
 import { basePath, pageSize } from "@/constants";
-import type { Release } from "@/types/release";
+import type { Release } from "@/types/github";
 
 const headers = { "Content-Type": "application/json" };
 

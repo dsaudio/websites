@@ -7,7 +7,7 @@ import { platforms } from "@/constants";
 import { latestRelease } from "@/request";
 import { useTranslation } from "@/i18n/client";
 import type { LngProps } from "@/types/i18next-lng";
-import type { Asset, Release } from "@/types/release";
+import type { Asset, Release } from "@/types/github";
 import type { SystemOS } from "@/types/common";
 
 export default function GitHubRelease({ lng }: LngProps) {

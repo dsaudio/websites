@@ -5,7 +5,7 @@ import { Loading } from "@/components/shared/icons";
 import { useTranslation } from "@/i18n/client";
 import { pageSize } from "@/constants";
 import { getReleases } from "@/request";
-import type { Release } from "@/types/release";
+import type { Release } from "@/types/github";
 
 export default function Releases({
   params,
