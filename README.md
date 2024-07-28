@@ -32,8 +32,6 @@ yarn dev
 
 ## Production
 
-The production server runs at [https://kjxbyz.com/dsaudio](https://kjxbyz.com/dsaudio)
-
 Build the application for production:
 
 ```bash
